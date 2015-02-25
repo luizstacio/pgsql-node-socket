@@ -1,0 +1,16 @@
+{
+  "devel":true,
+  "eqeqeq": true,
+  "node": true,
+  "quotmark": "single",
+  "strict": false,
+  "trailing": true,
+  "undef": true,
+  "unused": false,
+  "globals":{
+    "angular": true,
+    "$": true,
+    "app": true,
+  "require": true
+  }
+}
